@@ -1,0 +1,23 @@
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\bin\Debug\net6.0-windows\Inventario farmacia.exe
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\bin\Debug\net6.0-windows\Inventario farmacia.deps.json
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\bin\Debug\net6.0-windows\Inventario farmacia.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\bin\Debug\net6.0-windows\Inventario farmacia.dll
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\bin\Debug\net6.0-windows\Inventario farmacia.pdb
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario farmacia.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario_farmacia.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario farmacia.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario farmacia.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario farmacia.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario farmacia.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario farmacia.dll
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\refint\Inventario farmacia.dll
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario farmacia.pdb
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario farmacia.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\ref\Inventario farmacia.dll
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario_farmacia.Registro.resources
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario_farmacia.Inventario.resources
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario_farmacia.Stock.resources
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario_farmacia.Ventas.resources
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario_farmacia.Ventas1.resources
+C:\Users\Lenovo\Desktop\Inventario farmacia\Inventario farmacia\obj\Debug\net6.0-windows\Inventario_farmacia.iniciosecion.resources
