@@ -112,6 +112,7 @@
             txtclave.Size = new Size(377, 41);
             txtclave.TabIndex = 2;
             txtclave.Text = "Contraseña";
+            txtclave.TextChanged += txtclave_TextChanged;
             // 
             // txtnombre
             // 

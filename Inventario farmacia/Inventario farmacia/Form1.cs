@@ -42,7 +42,7 @@ namespace Inventario_farmacia
             string nombre = txtnombre.Text;
             string clave = txtclave.Text;
 
-            if (nombre == "admin" && clave == "123")
+            if (nombre == "ander15" && clave == "12345")
             {
                 Ventas v = new Ventas();
                 v.Show();
@@ -57,8 +57,13 @@ namespace Inventario_farmacia
 
         private void btnregistro_Click(object sender, EventArgs e)
         {
-           Registro r3 = new Registro();
+            Registro r3 = new Registro();
             r3.Show();
+        }
+
+        private void txtclave_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

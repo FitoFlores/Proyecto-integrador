@@ -19,8 +19,23 @@ namespace Inventario_farmacia
 
         private void btnregistrar_Click(object sender, EventArgs e)
         {
-            Ventas v5 = new Ventas();
-            v5.Show();
+            string nombreA = txtna.Text;
+            string usuario = txtusuario.Text;
+            string clave = txtcontra.Text;
+            string edad = txtedad.Text;
+
+            if (nombreA == "anderson" && usuario == "ander17" && clave == "12345" && edad == "20")
+            {
+                iniciosecion i5 = new iniciosecion();   
+                i5.Show();
+            }
+            else
+            {
+                MessageBox.Show("Sus datos de usuario son ander15 y contraseña 12345");
+                iniciosecion i5 = new iniciosecion();
+                i5.Show();  
+            }
+
         }
     }
 }
